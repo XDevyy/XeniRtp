@@ -1,0 +1,6 @@
+name: XeniRtp
+version: '1.0-SNAPSHOT'
+main: me.xeni.xenirtp.XeniRtp
+api-version: 1.19
+load: STARTUP
+authors: [Xeni]
